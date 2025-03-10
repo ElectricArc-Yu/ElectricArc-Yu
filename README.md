@@ -17,7 +17,7 @@
   </samp>
 </p>
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px ">
+  <div style="flex: 1">
     <p align="right">
     <samp> 
         My Stack:
@@ -32,7 +32,7 @@
     </samp>
     </p>
   </div>
-  <div style="flex: 1; padding: 10px ">
+  <div style="flex: 1">
     <p align="left">
     <samp> 
         My Field:
