@@ -16,38 +16,32 @@
     <br> Also me.
   </samp>
 </p>
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px ">
-    <p align="right">
-    <samp> 
-        My Stack:
-        <br>
-        C++
-        <br>
-        C#
-        <br>
-        Python
-        <br>
-        Java
-    </samp>
-    </p>
-  </div>
-  <div style="flex: 1; padding: 10px ">
-    <p align="left">
-    <samp> 
-        My Field:
-        <br>
-        Programmer
-        <br>
-        System Designer
-        <br>
-        Level Designer
-        <br>
-        Technical Designer
-    </samp>
-    </p>
-  </div>
-</div>
+<p align="center">
+<samp> 
+    My Stack:
+    <br>
+    C++
+    <br>
+    <b>C#</b>
+    <br>
+    Python
+    <br>
+    Java
+</samp>
+</p>
+<p align="center">
+<samp> 
+    My Field:
+    <br>
+    Programmer
+    <br>
+    System Designer
+    <br>
+    Level Designer
+    <br>
+    <b>Technical Designer</b>
+</samp>
+</p>
 <p align="center">
   <samp>
     Using Tools:
@@ -56,7 +50,7 @@
     <br>
     SketchUp
     <br>
-    Unreal Engine
+    <b>Unreal Engine</b>
     <br>
     Enterprise Architect
   </samp>
