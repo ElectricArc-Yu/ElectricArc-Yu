@@ -76,7 +76,7 @@
 <p align="center">
   <samp> 
     <b>
-    💬 [Contact me with Chinese, English, Japanese](mailto:EAforWork@outlook.com)
+    💬 <a href="mailto:EAforWork@outlook.com">Contact me with Chinese, English, Japanese</a>
     </b>
   </samp>
 </p>
