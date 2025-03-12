@@ -20,13 +20,13 @@
 <samp> 
     My Stack:
     <br>
-    C++
-    <br>
     <b>C#</b>
     <br>
-    Python
+    C++
     <br>
     Java
+    <br>
+    Python
 </samp>
 </p>
 <p align="center">
@@ -35,9 +35,9 @@
     <br>
     Programmer
     <br>
-    System Designer
-    <br>
     Level Designer
+    <br>
+    System Designer
     <br>
     <b>Technical Designer</b>
 </samp>
