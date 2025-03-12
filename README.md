@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <br>Welcome, I'm ElectricArc
+    <br> Welcome, I'm ElectricArc.
     <br> A Game Designer,
     <br> Also A Programmer.
   </samp>
